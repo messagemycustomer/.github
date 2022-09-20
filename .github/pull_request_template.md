@@ -35,10 +35,10 @@ resolves: MMC-{{ticket_id_on_linear}}
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
+- [ ] I have made corresponding changes to the documentation (if needed)
 - [ ] My changes generate no new warnings
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
+- [ ] I've reviewed and ensured all dependant components and config have been added and once merged, the functionality can be deployed to any environment
 - [ ] I'll remember to squash all the commits (if multiple) when merging to develop. In case of a PR against main, I'll merge main into develop first and once the PR is approved, I'll just merge (no squash)
 
